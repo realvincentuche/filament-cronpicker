@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Realvincentuche\FilamentCronpicker\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class FilamentCronpickerCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'filament-cronpicker';
 
     public $description = 'My command';
 
